@@ -36,5 +36,4 @@ Java-based CRUD application for managing student records using JDBC & MySQL.
 
 ---
 
-> “Your code should solve problems, not just pass tests.”
 
