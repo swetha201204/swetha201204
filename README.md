@@ -1,13 +1,13 @@
-# Hi there 👋 I'm Swetha
+# Hi👋 I'm Swetha
 
 🎓 Final year Information Technology student  
-💻 Passionate about **Java**and **Cloud Computing**
+💻 Passionate about **Java** and **Cloud Computing**
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building a **Real-Time Disaster Information **
+- 🔭 Currently building a Real-Time Disaster Information 
 - 🌱 Learning **Cloud Computing** 
 - 📫 Reach me at: swethasweth2012@gmail.com
 
