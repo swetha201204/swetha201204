@@ -1,7 +1,7 @@
 # Hi👋 I'm Swetha
 
-🎓 Final year Information Technology student  
-💻 Passionate about **Java** and **Cloud Computing**
+🎓 Final year B.TECH Information Technology student at Sethu Institute of technology 
+💻 Passionate about **Java** , **SQL** and **Cloud Computing**
 
 ---
 
