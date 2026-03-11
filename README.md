@@ -1,13 +1,13 @@
 # Hi👋 I'm Swetha
 
-🎓 Final year B.TECH Information Technology student at Sethu Institute of technology 
+🎓 Final year B.TECH Information Technology student at Sethu Institute of Technology 
 💻 Passionate about **Java** , **SQL** and **Cloud Computing**
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building a Real-Time Disaster Information 
+- 🔭 Currently building a Real-Time File Sharing System 
 - 🌱 Learning **Cloud Computing** 
 - 📫 Reach me at: swethasweth2012@gmail.com
 
@@ -19,9 +19,8 @@
 
 ## 💼 Projects
 
-### ☁️ Real-Time Disaster Info Dashboard  
-AI-powered web app that fetches and categorizes real-time disaster data by type, severity, and region.  
-**Tech:** Java, REST APIs, JSON, Charts, Cloud Deployment
+### ☁️ Real-Time File Sharing System  
+Secure file sharing web application using Spring Boot, RSA cryptography, and MySQL to protect file access through private key authentication.
 
 ### 🎓 Student Management System  
 Java-based CRUD application for managing student records using JDBC & MySQL.
